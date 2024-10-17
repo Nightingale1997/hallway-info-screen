@@ -73,17 +73,17 @@ button:focus-visible {
 }
 
 .location {
-  font-size: 4em;
+  font-size: 2em;
 }
 
 .date {
-  font-size: 4em;
+  font-size: 2em;
   font-weight: bold;
 }
 
 .day,
 .night {
-  font-size: 4em;
+  font-size: 2em;
 }
 
 .ww-box svg {
@@ -93,6 +93,8 @@ button:focus-visible {
 
 .data {
   display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row !important;
   align-items: center;
 }
 
