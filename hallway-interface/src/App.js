@@ -8,7 +8,7 @@ function App() {
         id="inlineFrameExample"
         title="Inline Frame Example"
         frameBorder="0"
-        src="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-depatureboardlinkgenerator&stopAreaGid=9021014001200000"
+        src="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-departureboardlinkgenerator&board1Gids=9021014006550000&board1Modules=departures&board1Modules=trafficSituations"
       ></iframe>
     </main>
   );
